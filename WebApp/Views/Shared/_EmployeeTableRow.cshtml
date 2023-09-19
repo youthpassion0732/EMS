@@ -13,8 +13,8 @@
                 <td>@employee.Email</td>
                 <td>@employee.DateOfBirth.ConvertDateTime()</td>
                 <td>
-                    <img onclick="editEmployee(@employee.Id)" src="icons/edit.png" width="15px">
-                    <img onclick="addDeleteConfirm(@employee.Id)" src="icons/delete.png" class="ml-1" width="15px">
+                    <img class="cursor-pointer" onclick="editEmployee(@employee.Id)" src="icons/edit.png" width="15px">
+                    <img class="ml-1 cursor-pointer" onclick="addDeleteConfirm(@employee.Id)" src="icons/delete.png" width="15px">
                 </td>
             </tr>
         }
