@@ -21,15 +21,7 @@ public class EmployeeController : BaseController
     [HttpGet]
     public IActionResult Index()
     {
-        try
-        {
-            return View();
-        }
-        catch (Exception ex)
-        {
-            _logger.LogError(ex.Message);
-            return HandleError(ex);
-        }
+        return View();
     }
 
     [HttpPost]
