@@ -20,16 +20,17 @@ It provides an efficient way to handle employee data within an organization.
     
 - **Platform**:
 - Microsoft Visual Studio
+
+## Deployment
+
+- Live Web APP: https://khurram-ems.azurewebsites.net
+- Live Web API: https://khurram-ems-api.azurewebsites.net/swagger/index.html
   
 ## Installation
 
 To get started with the Employee Management System, follow these steps:
 
-1. Clone the repository to your local machine:
+Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/youthpassion0732/EMS.git
-
-## Deployment**:
-- Live Web APP: https://khurram-ems.azurewebsites.net
-- Live Web API: https://khurram-ems-api.azurewebsites.net/swagger/index.html
+```bash
+git clone https://github.com/youthpassion0732/EMS.git
