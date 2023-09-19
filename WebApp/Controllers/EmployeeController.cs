@@ -31,7 +31,7 @@ public class EmployeeController : BaseController
         {
             var apiReponseDto = await _requestService.PostAsync(_endpoints.AllRecords(), requestDto);
             var result = JsonConvert.DeserializeObject<PaginationResponseDto<EmployeeViewModel>>(apiReponseDto.Content);
-            string html = await _partialRendererService.RenderPartialAsync("~/Views/Shared/_EmployeeTableRow.cshtml", result);
+            string html = await _partialRendererService.RenderPartialAsync("~/Views/Employee/_EmployeeTableRow.cshtml", result);
             string paginationHtml = string.Empty;
             if (result.NoOfPages > 1)
             {
@@ -63,7 +63,7 @@ public class EmployeeController : BaseController
             {
                 employee = JsonConvert.DeserializeObject<EmployeeViewModel>(apiReponseDto.Content);
                 var response = new PaginationResponseDto<EmployeeViewModel>() { Data = new List<EmployeeViewModel> { employee } };
-                string html = await _partialRendererService.RenderPartialAsync("~/Views/Shared/_EmployeeTableRow.cshtml", response);
+                string html = await _partialRendererService.RenderPartialAsync("~/Views/Employee/_EmployeeTableRow.cshtml", response);
                 return Json(new { html, success = true });
             }
             else
