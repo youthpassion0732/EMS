@@ -13,18 +13,6 @@ $("#searchEmployee").on('keyup', function (e) {
     }
 });
 
-function customPagination() {
-    var recordcount = $('#pagination').attr('data-recordcount');
-    $('#pagination').pagination({
-        items: recordcount,
-        itemsOnPage: 5,
-        currentPage: 1,
-        onPageClick: function (pageNo) {
-            GetEmployeesList(pageNo);
-        }
-    });
-}
-
 //#region CRUD Function
 function GetEmployeesList(pageNo = 0) {
     if (pageNo != 0) pageNumber = pageNo;
