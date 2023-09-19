@@ -1,0 +1,559 @@
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.pdb
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.pdb
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\user\source\repos\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\ref\WebAPI.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.exe
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.pdb
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.pdb
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.pdb
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.pdb
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.pack.json
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.build.json
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.development.json
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\refint\WebAPI.dll
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.pdb
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.Development.json
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.json
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.deps.json
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+\\noumanmalik\share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.pdb
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.pdb
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.pdb
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.pdb
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.pdb
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\ref\WebAPI.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.json
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.exe
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.deps.json
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.pdb
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.pdb
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.pdb
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.pdb
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\refint\WebAPI.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.pdb
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+D:\EmployeeManagement_Rafi\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\ref\WebAPI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\appsettings.json
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.exe
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.deps.json
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\WebAPI.pdb
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DAL.pdb
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DomainEntities.pdb
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\bin\Debug\net6.0\DTO.pdb
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\refint\WebAPI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.pdb
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebAppAPI\obj\Debug\net6.0\ref\WebAPI.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\appsettings.json
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\WebAPI.exe
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\WebAPI.deps.json
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\WebAPI.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\WebAPI.pdb
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\DAL.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\DomainEntities.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\DTO.dll
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\DAL.pdb
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\DomainEntities.pdb
+D:\Projects\EMS\WebAppAPI\bin\Debug\net6.0\DTO.pdb
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\WebAPI.dll
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\refint\WebAPI.dll
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\WebAPI.pdb
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+D:\Projects\EMS\WebAppAPI\obj\Debug\net6.0\ref\WebAPI.dll

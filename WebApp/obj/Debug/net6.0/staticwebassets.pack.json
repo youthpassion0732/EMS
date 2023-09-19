@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\css\\employee-index.css",
+      "PackagePath": "staticwebassets\\css\\employee-index.css"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\css\\material_icon.css",
+      "PackagePath": "staticwebassets\\css\\material_icon.css"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\css\\mricode.pagination.css",
+      "PackagePath": "staticwebassets\\css\\mricode.pagination.css"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\icons\\delete.png",
+      "PackagePath": "staticwebassets\\icons\\delete.png"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\icons\\down.png",
+      "PackagePath": "staticwebassets\\icons\\down.png"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\icons\\edit.png",
+      "PackagePath": "staticwebassets\\icons\\edit.png"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\icons\\left.png",
+      "PackagePath": "staticwebassets\\icons\\left.png"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\icons\\right.png",
+      "PackagePath": "staticwebassets\\icons\\right.png"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\icons\\search.png",
+      "PackagePath": "staticwebassets\\icons\\search.png"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\icons\\up.png",
+      "PackagePath": "staticwebassets\\icons\\up.png"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\js\\employee.js",
+      "PackagePath": "staticwebassets\\js\\employee.js"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\plugin\\pagination\\jquery.simplePagination.js",
+      "PackagePath": "staticwebassets\\plugin\\pagination\\jquery.simplePagination.js"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\plugin\\pagination\\simplePagination.css",
+      "PackagePath": "staticwebassets\\plugin\\pagination\\simplePagination.css"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\plugin\\toastr\\toastr.css",
+      "PackagePath": "staticwebassets\\plugin\\toastr\\toastr.css"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\plugin\\toastr\\toastr.js.map",
+      "PackagePath": "staticwebassets\\plugin\\toastr\\toastr.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\plugin\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\plugin\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\EMS\\WebApp\\wwwroot\\plugin\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\plugin\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApp.props",
+      "PackagePath": "build\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApp.props",
+      "PackagePath": "buildTransitive\\WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

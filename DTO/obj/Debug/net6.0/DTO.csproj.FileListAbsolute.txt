@@ -1,0 +1,108 @@
+C:\Users\user\source\repos\EmpoyeeManagement\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\user\source\repos\EmpoyeeManagement\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\user\source\repos\EmpoyeeManagement\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\user\source\repos\EmpoyeeManagement\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EmpoyeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EmpoyeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\user\source\repos\EmpoyeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmpoyeeManagement\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\user\source\repos\EmpoyeeManagement\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\user\source\repos\EmpoyeeManagement\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\user\source\repos\EmpoyeeManagement\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\user\source\repos\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\user\source\repos\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\user\source\repos\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\user\source\repos\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\user\source\repos\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\user\source\repos\EmployeeManagement\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\user\source\repos\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\user\source\repos\EmployeeManagement\DTO\obj\Debug\net6.0\ref\DTO.dll
+\\noumanmalik\share\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.deps.json
+\\noumanmalik\share\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.dll
+\\noumanmalik\share\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.pdb
+\\noumanmalik\share\EmployeeManagement\DTO\bin\Debug\net6.0\DomainEntities.dll
+\\noumanmalik\share\EmployeeManagement\DTO\bin\Debug\net6.0\DomainEntities.pdb
+\\noumanmalik\share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+\\noumanmalik\share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+\\noumanmalik\share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+\\noumanmalik\share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+\\noumanmalik\share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+\\noumanmalik\share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+\\noumanmalik\share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.dll
+\\noumanmalik\share\EmployeeManagement\DTO\obj\Debug\net6.0\refint\DTO.dll
+\\noumanmalik\share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.pdb
+\\noumanmalik\share\EmployeeManagement\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\bin\Debug\net6.0\DomainEntities.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\bin\Debug\net6.0\DomainEntities.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\dell\Desktop\New folder\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\dell\Desktop\New folder\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\New folder\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\New folder\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\New folder\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\dell\Desktop\New folder\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\New folder\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\dell\Desktop\New folder\EmployeeManagement\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\user\Desktop\EmployeeManagement_updated\EmployeeManagement\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\EmployeeManagement_Rafi\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.pdb
+D:\EmployeeManagement_Rafi\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagement_Rafi\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\EmployeeManagement_Rafi\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\EmployeeManagement_Rafi\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\EmployeeManagement_Rafi\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\EmployeeManagement_Rafi\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.pdb
+D:\EmployeeManagement_Rafi\EmployeeManagement\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\EmployeeManagement_LatestCode\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\DTO\bin\Debug\net6.0\DTO.pdb
+D:\EmployeeManagement_LatestCode\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagement_LatestCode\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\EmployeeManagement_LatestCode\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\EmployeeManagement_LatestCode\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\EmployeeManagement_LatestCode\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\DTO\obj\Debug\net6.0\DTO.pdb
+D:\EmployeeManagement_LatestCode\EmployeeManagement\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\Projects\EMS\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\Projects\EMS\DTO\bin\Debug\net6.0\DTO.dll
+D:\Projects\EMS\DTO\bin\Debug\net6.0\DTO.pdb
+D:\Projects\EMS\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EMS\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\Projects\EMS\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\Projects\EMS\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\Projects\EMS\DTO\obj\Debug\net6.0\DTO.dll
+D:\Projects\EMS\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\Projects\EMS\DTO\obj\Debug\net6.0\DTO.pdb
+D:\Projects\EMS\DTO\obj\Debug\net6.0\ref\DTO.dll

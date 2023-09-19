@@ -1,0 +1,899 @@
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\testhost.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\testhost.exe
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.deps.json
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.runtimeconfig.json
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.pdb
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.core.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.AssemblyInfo.cs
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.CopyComplete
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\obj\Debug\net6.0\refint\WebApi.Test.dll
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.pdb
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.genruntimeconfig.cache
+C:\Users\user\source\repos\EmpoyeeManagement\WebApi.Test\obj\Debug\net6.0\ref\WebApi.Test.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\testhost.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\testhost.exe
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.deps.json
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.runtimeconfig.json
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.pdb
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.core.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.AssemblyInfo.cs
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.CopyComplete
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\refint\WebApi.Test.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.pdb
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.genruntimeconfig.cache
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\ref\WebApi.Test.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\CoverletSourceRootsMapping_WebApi.Test
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\testhost.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\testhost.exe
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.deps.json
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.runtimeconfig.json
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.pdb
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.AutoMoq.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.Xunit2.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Castle.Core.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Fare.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\JetBrains.Annotations.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Moq.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Objectivity.AutoFixture.XUnit2.AutoMoq.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Objectivity.AutoFixture.XUnit2.Core.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.abstractions.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.assert.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.core.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DAL.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DomainEntities.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DTO.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DAL.pdb
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DomainEntities.pdb
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DTO.pdb
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.AssemblyReference.cache
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.GeneratedMSBuildEditorConfig.editorconfig
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.AssemblyInfoInputs.cache
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.AssemblyInfo.cs
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.CoreCompileInputs.cache
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.CopyComplete
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\refint\WebApi.Test.dll
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.pdb
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.genruntimeconfig.cache
+\\noumanmalik\share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\ref\WebApi.Test.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\CoverletSourceRootsMapping_WebApi.Test
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\testhost.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\testhost.exe
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.deps.json
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.runtimeconfig.json
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.AutoMoq.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.Xunit2.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Fare.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Moq.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Objectivity.AutoFixture.XUnit2.AutoMoq.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Objectivity.AutoFixture.XUnit2.Core.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.core.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DAL.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DomainEntities.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DTO.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DAL.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DomainEntities.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DTO.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.AssemblyReference.cache
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.AssemblyInfoInputs.cache
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.AssemblyInfo.cs
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.CoreCompileInputs.cache
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.CopyComplete
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\refint\WebApi.Test.dll
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.pdb
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.genruntimeconfig.cache
+C:\Users\NoumanMalik\Desktop\Share\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\ref\WebApi.Test.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\CoverletSourceRootsMapping_WebApi.Test
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\testhost.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\testhost.exe
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.deps.json
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.runtimeconfig.json
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.pdb
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.AutoMoq.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.Xunit2.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Fare.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Moq.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Objectivity.AutoFixture.XUnit2.AutoMoq.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Objectivity.AutoFixture.XUnit2.Core.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.core.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DAL.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DomainEntities.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DTO.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DAL.pdb
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DomainEntities.pdb
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DTO.pdb
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.AssemblyInfo.cs
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.CopyComplete
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\refint\WebApi.Test.dll
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.pdb
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.genruntimeconfig.cache
+C:\Users\dell\Desktop\New folder\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\ref\WebApi.Test.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\CoverletSourceRootsMapping_WebApi.Test
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\testhost.exe
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\testhost.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.deps.json
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.runtimeconfig.json
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\WebApi.Test.pdb
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.AutoMoq.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.Xunit2.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Castle.Core.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Fare.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\JetBrains.Annotations.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Moq.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Objectivity.AutoFixture.XUnit2.AutoMoq.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Objectivity.AutoFixture.XUnit2.Core.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.abstractions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.assert.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.core.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DAL.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DomainEntities.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DTO.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DAL.pdb
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DomainEntities.pdb
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DTO.pdb
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.AssemblyReference.cache
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.AssemblyInfoInputs.cache
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.AssemblyInfo.cs
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.CoreCompileInputs.cache
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.csproj.CopyComplete
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\refint\WebApi.Test.dll
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.pdb
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\WebApi.Test.genruntimeconfig.cache
+D:\EmployeeManagement_LatestCode\EmployeeManagement\WebApi.Test\obj\Debug\net6.0\ref\WebApi.Test.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\CoverletSourceRootsMapping_WebApi.Test
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.AutoMoq.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\AutoFixture.Xunit2.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Fare.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Moq.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Objectivity.AutoFixture.XUnit2.AutoMoq.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\Objectivity.AutoFixture.XUnit2.Core.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DAL.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DomainEntities.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DTO.dll
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DomainEntities.pdb
+C:\Users\user\source\repos\EmployeeManagement\WebApi.Test\bin\Debug\net6.0\DTO.pdb

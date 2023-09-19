@@ -1,0 +1,28 @@
+﻿@model DTO.PaginationResponseDto<EmployeeViewModel>
+
+@{
+    @if (Model != null && Model.Data != null && Model.Data.Any())
+    {
+        foreach (var emp in Model.Data)
+        {
+            var employee = emp as EmployeeViewModel;
+            <tr id="row-@employee.Id">
+                <th scope="row">@employee.Id</th>
+                <td>@employee.Name</td>
+                <td>@employee.Department</td>
+                <td>@employee.Email</td>
+                <td>@employee.DateOfBirth.ConvertDateTime()</td>
+                <td>
+                    <img onclick="editEmployee(@employee.Id)" src="icons/edit.png" width="15px">
+                    <img onclick="addDeleteConfirm(@employee.Id)" src="icons/delete.png" class="ml-1" width="15px">
+                </td>
+            </tr>
+        }
+    }
+    else
+    {
+        <tr id="noRecord">
+            <th colspan="6" class="text-center">No Record Found!</th>
+        </tr>
+    }
+}

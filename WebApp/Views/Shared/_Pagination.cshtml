@@ -1,0 +1,32 @@
+﻿@model PaginationViewModel
+
+@if (Model != null)
+{
+    <ul class="pagination justify-content-center mt-4">
+        @if (!string.IsNullOrEmpty(Model.PreviousPageUrl))
+        {
+            <li id="previous-page" class="page-item" onclick="@Model.PreviousPageUrl">
+                <a class="page-link" onclick="@Model.PreviousPageUrl">
+                    <img class="cursor-pointer" onclick="@Model.PreviousPageUrl" id="id_Assecding" src="~/icons/left.png" width="20px" />
+                </a>
+            </li>
+        }
+
+        @foreach (var item in Model.Pages)
+        {
+            <li class=" @(item.LinkValue != "..." ? "page-item" : "") @(item.LinkValue == Model.CurrentPage.ToString() ? "active" : "")" onclick="@item.Url">
+                <a class="page-link" onclick="@item.Url">@item.LinkValue</a>
+            </li>
+        }
+
+        @if (!string.IsNullOrEmpty(Model.NextPageUrl))
+        {
+            <li class="page-item" onclick="@Model.NextPageUrl">
+                <a class="page-link" onclick="@Model.NextPageUrl">
+                    <img class="cursor-pointer" onclick="@Model.NextPageUrl" id="id_Assecding" src="~/icons/right.png" width="20px" />
+                </a>
+            </li>
+        }
+
+    </ul>
+}

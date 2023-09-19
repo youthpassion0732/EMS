@@ -1,0 +1,30 @@
+﻿.cursor-pointer {
+    cursor: pointer;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.showingInfoLabel {
+    position: absolute;
+    right: 0;
+    margin-right: 20px;
+}
+
+.page-link {
+    color: #212529 !important;
+    cursor: pointer;
+}
+    .page-link:hover {
+        color: #212529 !important;
+    }
+.page-item.active .page-link {
+    color: #ffffff !important;
+    background-color: #212529 !important;
+    border-color: #212529 !important;
+}
+    .page-item.active .page-link:hover {
+        color: #ffffff !important;
+    }
+    

@@ -1,0 +1,43 @@
+﻿@model EmployeeViewModel;
+
+<div class="modal fade" id="employeeModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="employeeModalLabel">@(Model.Id > 0 ? "Edit" : "Add") Employee</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <input type="hidden" id="hfEmployeeId" value="@Model.Id" />
+            <div class="modal-body">
+                <div class="mb-3">
+                    <label for="txtEmployeeName" class="form-label">Name <span class="text-danger">*</span></label>
+                    <input type="text" class="form-control" id="txtEmployeeName" placeholder="Enter Your Name.." value="@Model.Name">
+                    <span id="errorName" class="d-none" style="color:red;">Name is required !</span>
+                </div>
+
+                <div class="mb-3">
+                    <label for="txtEmployeeDept" class="form-label">Department <span class="text-danger">*</span></label>
+                    <input type="text" class="form-control" id="txtEmployeeDept" placeholder="Enter Your Department Name.." value="@Model.Department">
+                    <span id="errorDepartment" class="d-none" style="color:red;">Department is required !</span>
+                </div>
+
+                <div class="mb-3">
+                    <label for="txtEmployeeEmail" class="form-label">Email <span class="text-danger">*</span></label>
+                    <input type="email" class="form-control" id="txtEmployeeEmail" placeholder="name@example.com" value="@Model.Email">
+                    <span id="errorEmail" class="d-none" style="color:red;">Email is required !</span>
+                    <span id="errorEmailValid" class="d-none" style="color:red;">Email is not Valid !</span>
+                </div>
+
+                <div class="mb-3">
+                    <label for="txtEmployeeDob" class="form-label">Date of Birth <span class="text-danger">*</span></label>
+                    <input type="date" class="form-control" id="txtEmployeeDob" placeholder="DOB" value="@Model.DateOfBirth.ConvertDateTime()">
+                    <span id="errorDOB" class="d-none" style="color:red;">Date of Birth is required !</span>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" onclick="saveEmployee()">@(Model.Id > 0 ? "Update" : "Add")</button>
+            </div>
+        </div>
+    </div>
+</div>
